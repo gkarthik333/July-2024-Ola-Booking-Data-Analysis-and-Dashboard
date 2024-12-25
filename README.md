@@ -47,8 +47,7 @@ Excel | SQL |PowerBI
 ●	Developed interactive Power BI dashboards for KPIs like booking value and ratings.
 
 # Report
-### Generated comprehensive reports on service quality and customer satisfaction.
--<a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/Ola%20Dashboard.pbix">Dashboard</a>
+### Generated comprehensive reports on service quality and customer satisfaction.-<a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/Ola%20Dashboard.pbix">Dashboard</a>
 ![Screenshot 2024-12-26 025015](https://github.com/user-attachments/assets/26326e5a-1aad-441b-bdb3-cc6b337712b6)
 
 -----------------------------------------
