@@ -35,7 +35,7 @@ Excel | SQL |PowerBI
 ● Removed unwanted columns: Deleted columns that were not necessary for the analysis( vehicle images,column 21)
 ● Checked for null and missing values: Identified null and missing values but did not remove them to avoid affecting the analysis.
 ● Loaded cleaned data back to Excel sheet: Transferred the cleaned data back into an Excel sheet.
-
+<a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/cleaned%20Excel%20file%20-%20Ola.xlsx">Dataset</a>
 # Analysis Process
 ● using sql we analyse the data and we did manipulated data using views .
 ●	Identified trends such as booking success rates, cancellation reasons, and ride metrics.
