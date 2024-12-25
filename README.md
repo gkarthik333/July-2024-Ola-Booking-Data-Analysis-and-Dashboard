@@ -44,8 +44,8 @@ Excel | SQL |PowerBI
 ### Generated comprehensive reports on service quality and customer satisfaction.
 
 -----------------------------------------
-# conclusion 
-# Implementing the recommended strategies can have a significant and positive impact on Ola's business, as well as on its drivers and riders. Here’s a comprehensive conclusion:
+# Conclusion 
+ Implementing the recommended strategies can have a significant and positive impact on Ola's business, as well as on its drivers and riders. Here’s a comprehensive conclusion:
 # Company (Ola) Benefits
 Revenue Growth: Potential increase in revenue by 15-22% due to dynamic pricing, better fleet utilization, and reduced cancellations.
 Operational Efficiency: Improved resource allocation, reduced wait times, and enhanced operational efficiency.
