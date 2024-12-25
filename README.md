@@ -3,6 +3,7 @@ This repository contains a comprehensive dashboard and analysis of over 1 lakh O
 
 # Data Sources
  Booking Data: The primary dataset used for this analysis is the "Bookings-100000-Rows.xlsx" file, containing detailed information about each booking made by the rider.
+- <a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/Ola%20Bookings-100000%2B-Raw%20data.xlsx">Dataset</a>
 
 # Table of Contents:
 1. Date
