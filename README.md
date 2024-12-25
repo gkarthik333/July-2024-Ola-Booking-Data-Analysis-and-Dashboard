@@ -36,7 +36,8 @@ Excel | SQL |PowerBI
 ● Checked for null and missing values: Identified null and missing values but did not remove them to avoid affecting the analysis.
 ● Loaded cleaned data back to Excel sheet: Transferred the cleaned data back into an Excel sheet.
 <a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/cleaned%20Excel%20file%20-%20Ola.xlsx">Dataset</a>
-![Screenshot 2024-12-25 175236](https://github.com/user-attachments/assets/0a96557e-7289-4d2a-80bc-c0a8c57e15ef)![Screenshot 2024-12-25 175834](https://github.com/user-attachments/assets/c05fe1a5-d4e8-4b5b-9304-6c99284d680d)
+![Screenshot 2024-12-25 175236](https://github.com/user-attachments/assets/0a96557e-7289-4d2a-80bc-c0a8c57e15ef) 
+![Screenshot 2024-12-25 175834](https://github.com/user-attachments/assets/c05fe1a5-d4e8-4b5b-9304-6c99284d680d)
 
 
 
@@ -48,6 +49,8 @@ Excel | SQL |PowerBI
 # Report
 ### Generated comprehensive reports on service quality and customer satisfaction.
 -<a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/Ola%20Dashboard.pbix">Dashboard</a>
+![Screenshot 2024-12-26 025015](https://github.com/user-attachments/assets/26326e5a-1aad-441b-bdb3-cc6b337712b6)
+
 -----------------------------------------
 # Conclusion 
  Implementing the recommended strategies can have a significant and positive impact on Ola's business, as well as on its drivers and riders. Here’s a comprehensive conclusion:
