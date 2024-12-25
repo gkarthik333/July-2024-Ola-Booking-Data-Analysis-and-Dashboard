@@ -26,9 +26,7 @@ This repository contains a comprehensive dashboard and analysis of over 1 lakh O
 19. Customer_Rating
 
 # Tools
-Excel - Data Cleaning
-SQL Server - Data Analysis
-PowerBI - Creating reports
+Excel | SQL |PowerBI 
 
 # Data cleaning process 
 ● Checked for duplicates: Verified that all entries are unique.
@@ -41,7 +39,9 @@ PowerBI - Creating reports
 ● using sql we analyse the data and we did manipulated data using views .
 ●	Identified trends such as booking success rates, cancellation reasons, and ride metrics.
 ●	Developed interactive Power BI dashboards for KPIs like booking value and ratings.
-●	Generated comprehensive reports on service quality and customer satisfaction as bellow we mentioned.
+
+# Report
+●	Generated comprehensive reports on service quality and customer satisfaction.
 
 
 -----------------------------
