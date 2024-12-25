@@ -43,7 +43,7 @@ Excel | SQL |PowerBI
 
 # Report
 ### Generated comprehensive reports on service quality and customer satisfaction.
-
+-<a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/Ola%20Dashboard.pbix">Dashboard</a>
 -----------------------------------------
 # Conclusion 
  Implementing the recommended strategies can have a significant and positive impact on Ola's business, as well as on its drivers and riders. Here’s a comprehensive conclusion:
