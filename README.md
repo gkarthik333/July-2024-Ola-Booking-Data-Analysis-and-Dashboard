@@ -78,7 +78,7 @@ Personalized Experience: Riders may experience a more personalized service with 
 Increased Satisfaction: Higher overall satisfaction due to reduced cancellations, shorter wait times, and better driver performance.
 
 -----------------------------
-SQL Questions: 
+SQL Quear: 
 1. Retrieve all successful bookings:
  2. Find the average ride distance for each vehicle type:
  3. Get the total number of cancelled rides by customers:
@@ -90,7 +90,7 @@ SQL Questions:
  9. Calculate the total booking value of rides completed successfully: 
 10. List all incomplete rides along with the reason: 
 
-Power BI Questions: 
+Power BI KPIs: 
 1. Ride Volume Over Time
  2. Booking Status Breakdown
  3. Top 5 Vehicle Types by Ride Distance 
